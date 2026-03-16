@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ecoimpact</string>
+    <string name="ecoimpact">ECOIMPACT</string>
+    <string name="descubra_como_suas_a_es_impactam_o_meio_ambiente">Découvrez comment vos actions impactent l\'environnement</string>
+    <string name="come_ar">Commencer</string>
+    <string name="selecione_suas_a_es_de_hoje">Sélectionnez vos actions d\'aujourd\'hui</string>
+    <string name="calcular_impacto">Calculer l\'impact</string>
+    <string name="voltar_ao_in_cio">Retour à l\'accueil</string>
+    <string name="nenhuma_a_o_foi_selecionada">Aucune action n\'a été sélectionnée.</string>
+    <string name="ver_dicas_sustent_veis">Voir les conseils durables</string>
+    <string name="ver_hist_rico">Voir l\'historique</string>
+    <string name="nenhuma_a_o_selecionada_total_0_0_kg_co">Aucune action sélectionnée - Total : 0,0 kg CO₂</string>
+    <string name="dicas_sustent_veis">Conseils durables</string>
+    <string name="use_transporte_p_blico_sempre_que_poss_vel">• Utilisez les transports en commun dès que possible</string>
+    <string name="reduza_o_consumo_de_carne_durante_a_semana">• Réduisez votre consommation de viande pendant la semaine</string>
+    <string name="prefira_bicicleta_ou_caminhada_em_trajetos_curtos">• Privilégiez le vélo ou la marche pour les trajets courts</string>
+    <string name="evite_desperd_cio_de_energia_el_trica">• Évitez le gaspillage d\'énergie électrique</string>
+    <string name="reutilize_materiais_e_recicle_o_lixo">• Réutilisez les matériaux et recyclez les déchets</string>
+    <string name="ir_para_hist_rico">Aller à l\'historique</string>
+    <string name="comecar">Commencer</string>
+    <string name="dirigir_carro">Conduire une voiture</string>
+    <string name="viajar_de_aviao">Voyager en avion</string>
+    <string name="comer_carne">Manger de la viande</string>
+    <string name="andar_de_bicicleta">Faire du vélo</string>
+    <string name="usar_transporte_p_blico">Utiliser les transports en commun</string>
+    <string name="historico">Historique</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ecoimpact</string>
+    <string name="ecoimpact">ECOIMPACT</string>
+    <string name="descubra_como_suas_a_es_impactam_o_meio_ambiente">Discover how your actions impact the environment</string>
+    <string name="come_ar">Start</string>
+    <string name="selecione_suas_a_es_de_hoje">Select your actions for today</string>
+    <string name="calcular_impacto">Calculate impact</string>
+    <string name="voltar_ao_in_cio">Back to home</string>
+    <string name="nenhuma_a_o_foi_selecionada">No actions were selected.</string>
+    <string name="ver_dicas_sustent_veis">View sustainable tips</string>
+    <string name="ver_hist_rico">View history</string>
+    <string name="nenhuma_a_o_selecionada_total_0_0_kg_co">No action selected - Total: 0.0 kg CO₂</string>
+    <string name="dicas_sustent_veis">Sustainable tips</string>
+    <string name="use_transporte_p_blico_sempre_que_poss_vel">• Use public transport whenever possible</string>
+    <string name="reduza_o_consumo_de_carne_durante_a_semana">• Reduce meat consumption during the week</string>
+    <string name="prefira_bicicleta_ou_caminhada_em_trajetos_curtos">• Prefer cycling or walking for short trips</string>
+    <string name="evite_desperd_cio_de_energia_el_trica">• Avoid wasting electricity</string>
+    <string name="reutilize_materiais_e_recicle_o_lixo">• Reuse materials and recycle waste</string>
+    <string name="ir_para_hist_rico">Go to history</string>
+    <string name="comecar">Start</string>
+    <string name="dirigir_carro">Drive Car</string>
+    <string name="viajar_de_aviao">Travel by plane</string>
+    <string name="comer_carne">Eat meat</string>
+    <string name="andar_de_bicicleta">Ride a bike</string>
+    <string name="usar_transporte_p_blico">Use public transport</string>
+    <string name="historico">History</string>
+</resources>

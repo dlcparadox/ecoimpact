@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ecoimpact</string>
+    <string name="ecoimpact">ECOIMPACT</string>
+    <string name="descubra_como_suas_a_es_impactam_o_meio_ambiente">Descubre cómo tus acciones impactan el medio ambiente</string>
+    <string name="come_ar">Comenzar</string>
+    <string name="selecione_suas_a_es_de_hoje">Selecciona tus acciones de hoy</string>
+    <string name="calcular_impacto">Calcular impacto</string>
+    <string name="voltar_ao_in_cio">Volver al inicio</string>
+    <string name="nenhuma_a_o_foi_selecionada">No se seleccionó ninguna acción.</string>
+    <string name="ver_dicas_sustent_veis">Ver consejos sostenibles</string>
+    <string name="ver_hist_rico">Ver historial</string>
+    <string name="nenhuma_a_o_selecionada_total_0_0_kg_co">Ninguna acción seleccionada - Total: 0.0 kg CO₂</string>
+    <string name="dicas_sustent_veis">Consejos sostenibles</string>
+    <string name="use_transporte_p_blico_sempre_que_poss_vel">• Usa el transporte público siempre que sea posible</string>
+    <string name="reduza_o_consumo_de_carne_durante_a_semana">• Reduce el consumo de carne durante la semana</string>
+    <string name="prefira_bicicleta_ou_caminhada_em_trajetos_curtos">• Prefiere la bicicleta o caminar en trayectos cortos</string>
+    <string name="evite_desperd_cio_de_energia_el_trica">• Evita el desperdicio de energía eléctrica</string>
+    <string name="reutilize_materiais_e_recicle_o_lixo">• Reutiliza materiales y recicla la basura</string>
+    <string name="ir_para_hist_rico">Ir al historial</string>
+    <string name="comecar">Comenzar</string>
+    <string name="dirigir_carro">Conducir coche</string>
+    <string name="viajar_de_aviao">Viajar en avión</string>
+    <string name="comer_carne">Comer carne</string>
+    <string name="andar_de_bicicleta">Andar en bicicleta</string>
+    <string name="usar_transporte_p_blico">Usar transporte público</string>
+    <string name="historico">Historial</string>
+</resources>

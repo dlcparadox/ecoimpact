@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ecoimpact</string>
+    <string name="ecoimpact">ECOIMPACT</string>
+    <string name="descubra_como_suas_a_es_impactam_o_meio_ambiente">Descubra como suas ações impactam o meio ambiente</string>
+    <string name="come_ar">Começar</string>
+    <string name="selecione_suas_a_es_de_hoje">Selecione suas ações de hoje</string>
+    <string name="calcular_impacto">Calcular impacto</string>
+    <string name="voltar_ao_in_cio">Voltar ao início</string>
+    <string name="nenhuma_a_o_foi_selecionada">Nenhuma ação foi selecionada.</string>
+    <string name="ver_dicas_sustent_veis">Ver dicas sustentáveis</string>
+    <string name="ver_hist_rico">Ver histórico</string>
+    <string name="nenhuma_a_o_selecionada_total_0_0_kg_co">Nenhuma ação selecionada - Total: 0.0 kg CO₂</string>
+    <string name="dicas_sustent_veis">Dicas sustentáveis</string>
+    <string name="use_transporte_p_blico_sempre_que_poss_vel">• Use transporte público sempre que possível</string>
+    <string name="reduza_o_consumo_de_carne_durante_a_semana">• Reduza o consumo de carne durante a semana</string>
+    <string name="prefira_bicicleta_ou_caminhada_em_trajetos_curtos">• Prefira bicicleta ou caminhada em trajetos curtos</string>
+    <string name="evite_desperd_cio_de_energia_el_trica">• Evite desperdício de energia elétrica</string>
+    <string name="reutilize_materiais_e_recicle_o_lixo">• Reutilize materiais e recicle o lixo</string>
+    <string name="ir_para_hist_rico">Ir para histórico</string>
+    <string name="comecar">Começar</string>
+    <string name="dirigir_carro">Dirigir_Carro</string>
+    <string name="viajar_de_aviao">Viajar de avião</string>
+    <string name="comer_carne">Comer carne</string>
+    <string name="andar_de_bicicleta">Andar de bicicleta</string>
+    <string name="usar_transporte_p_blico">Usar transporte público</string>
+    <string name="historico">Histórico</string>
+</resources>
